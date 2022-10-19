@@ -35,7 +35,8 @@
 - F. true, since 2 casted as a Boolean is true
 
 15. == checks for regular equality while === is strict equality. The regular equality check can compare different data types (eg. 0 and false) but the strict equality check cannot. 
-
+<div>
 17. This function returns [2, 4. 6]. The function that's passed in doubles the input parameter, which is then applied to all elements of the old array, then pushed into the new array.
 
 19. This program prints 1 4 3 2. 
+</div>

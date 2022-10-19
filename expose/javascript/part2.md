@@ -12,27 +12,27 @@
 12. 	
 - A. student["name"]
 - B. student["Grad Year"]
-C. student["greeting"]()
-D. student["Favorite Teacher"]["name"]
-E. student["courseLoad"][0]
+- C. student["greeting"]()
+- D. student["Favorite Teacher"]["name"]
+- E. student["courseLoad"][0]
 
 13. 	
-A. '32' because 2 maps to a string
-B. 1 because '3' is converted to a number
-C. 3, because null is treated as a 0
-D. '3null' because null is converted to a string
-E. 4, since true evalutates as 1
-F. 0, since false and null both evaluate to 0
-G. '3undefined' since undefined converts to a string
-H. NaN because undefined becomes NaN when it is attempted to be changed to a number
+- A. '32' because 2 maps to a string
+- B. 1 because '3' is converted to a number
+- C. 3, because null is treated as a 0
+- D. '3null' because null is converted to a string
+- E. 4, since true evalutates as 1
+- F. 0, since false and null both evaluate to 0
+- G. '3undefined' since undefined converts to a string
+- H. NaN because undefined becomes NaN when it is attempted to be changed to a number
 
 14.
-A. true, since '2' is converted to a number
-B. false, since both are evaluated as strings
-C. true, since == converts '2' to a number
-D. false, since they are different data types so === does not convert
-E. false, since true is evaluated as 1
-F. true, since 2 casted as a Boolean is true
+- A. true, since '2' is converted to a number
+- B. false, since both are evaluated as strings
+- C. true, since == converts '2' to a number
+- D. false, since they are different data types so === does not convert
+- E. false, since true is evaluated as 1
+- F. true, since 2 casted as a Boolean is true
 
 15. == checks for regular equality while === is strict equality. The regular equality check can compare different data types (eg. 0 and false) but the strict equality check cannot. 
 

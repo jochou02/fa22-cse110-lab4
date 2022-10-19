@@ -10,8 +10,8 @@
 10. Console will print 3, because that's the value length was initialized to on line 4.
 11. This function will return [50, 100, 150] because the for loop pushes the 3 discounted values into discounted, which are then returned. discounted is a const variable, but pushing values is fine since no variable reassignment occurs. 
 12. 	
-A. student["name"]
-B. student["Grad Year"]
+- A. student["name"]
+- B. student["Grad Year"]
 C. student["greeting"]()
 D. student["Favorite Teacher"]["name"]
 E. student["courseLoad"][0]
